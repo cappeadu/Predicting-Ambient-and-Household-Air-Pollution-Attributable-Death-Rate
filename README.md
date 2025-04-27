@@ -35,11 +35,12 @@ The dataset included multiple indicators such as:
 The modeling phase involved predicting the death rate using different supervised regression algorithms:
 
 Models Trained:
-Baseline: **Linear Regression**
-**Support Vector Regressor (SVR)**
-**Decision Tree Regressor**
-**Random Forest Regressor**
-**XGBoost Regressor**
+Baseline: 
+- **Linear Regression**
+- **Support Vector Regressor (SVR)**
+- **Decision Tree Regressor**
+- **Random Forest Regressor**
+- **XGBoost Regressor**
 
 Model Evaluation Metrics:
 - **Root Mean Squared Error (RMSE)**

@@ -14,12 +14,12 @@ The aim is to better understand key factors that drive air pollution–related m
 ### 🧹 1. Data Cleaning & Feature Engineering
 The dataset included multiple indicators such as:
 
-**PM2.5 levels**
-**Use of clean cooking fuels**
-**Greenhouse gas emissions**
-**Temperature change**
-**Latitude, longitude**
-**Income level categories**
+- **PM2.5 levels**
+- **Use of clean cooking fuels**
+- **Greenhouse gas emissions**
+- **Temperature change**
+- **Latitude, longitude**
+- **Income level categories**
 
 **Key steps included**:
 

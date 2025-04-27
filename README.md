@@ -1,4 +1,4 @@
-# Predicting-Ambient-and-Household-Air-Pollution-Attributable-Death-Rate
+# Predicting Ambient and Household Air Pollution Attributable Death Rate
 
 ### 📋 Project Overview
 This project focuses on predicting the death rate attributed to ambient and household air pollution (age-standardized per 100,000 population).

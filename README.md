@@ -86,7 +86,7 @@ Category	Tools
  - **Death Rates**
 - **Interactive tooltips showing trends over time were embedded**.
 
-Tableau Public Dashboard Link: [Tableau](Add link here after publishing)
+Tableau Public Dashboard Link: [Tableau](https://public.tableau.com/views/GlobalAirQualityTrendsandAssociatedMortality/OVERVIEW?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 

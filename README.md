@@ -79,7 +79,6 @@ Category	Tools
 
 ### 🗺️ 5. Visualization (Tableau Dashboard)
 - Multiple geo heatmaps were created based on:
-
  - **PM2.5 exposure levels**
  - **Percentage of population using clean fuels**
  - **Greenhouse gas emissions per capita**
